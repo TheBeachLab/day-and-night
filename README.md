@@ -19,4 +19,13 @@ Primary mirror pole location from surface -3.45 mm
 
 f = 763.5 mm
 
+## Raspberry Pi
 
+- Raspberry Pi 3 model B
+- 3.5" MHS display rotated by software 180 deg for convenience
+- pi/rpimot
+
+### TODO
+
+- Coordinates change
+- Touch interface
